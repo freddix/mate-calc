@@ -1,11 +1,11 @@
 Summary:	MATE calculator
 Name:		mate-calc
-Version:	1.6.1
+Version:	1.8.0
 Release:	1
 License:	GPL v2
 Group:		Applications/Math
-Source0:	http://pub.mate-desktop.org/releases/1.6/%{name}-%{version}.tar.xz
-# Source0-md5:	63323485ecf61a9d6290d9103786b56f
+Source0:	http://pub.mate-desktop.org/releases/1.8/%{name}-%{version}.tar.xz
+# Source0-md5:	8a22d9a65599163fa94d240fab5c15f2
 URL:		http://mate-desktop.org/
 BuildRequires:	autoconf
 BuildRequires:	automake
