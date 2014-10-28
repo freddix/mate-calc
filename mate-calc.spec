@@ -1,7 +1,7 @@
 Summary:	MATE calculator
 Name:		mate-calc
 Version:	1.8.0
-Release:	1
+Release:	2
 License:	GPL v2
 Group:		Applications/Math
 Source0:	http://pub.mate-desktop.org/releases/1.8/%{name}-%{version}.tar.xz
